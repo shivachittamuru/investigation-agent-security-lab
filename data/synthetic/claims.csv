@@ -1,0 +1,7 @@
+tenant_id,claim_id,customer_id,status,loss_type,amount_usd
+northstar,C-1042,CUS-100,open,water damage,4200
+northstar,C-1043,CUS-101,pending,wind damage,1800
+northstar,C-1044,CUS-102,closed,theft,950
+harbor,C-1042,CUS-900,open,water damage,18500
+harbor,C-1045,CUS-901,pending,fire damage,11000
+harbor,C-1046,CUS-902,open,theft,3000
