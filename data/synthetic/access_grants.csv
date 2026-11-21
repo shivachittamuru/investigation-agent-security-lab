@@ -1,0 +1,4 @@
+employee_id,tenant_id,claim_id,permission
+E-101,northstar,C-1042,read
+E-102,northstar,C-1043,read
+E-201,harbor,C-1042,read
