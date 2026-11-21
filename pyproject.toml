@@ -7,6 +7,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "langchain>=1.5.0",
     "langgraph>=1.2.22",
+    "pyjwt>=2.15.1",
 ]
 
 [dependency-groups]
