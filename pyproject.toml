@@ -4,12 +4,15 @@ version = "0.1.0"
 description = "A hands-on Python reference implementation for securing and evaluating AI agents through identity, authorization, prompt-injection testing, audit, and reliability controls."
 requires-python = ">=3.11"
 dependencies = [
+    "azure-ai-projects>=2.11.0",
+    "azure-identity>=1.27.0",
     "fastapi>=0.163.0",
     "httpx>=0.28.1",
     "jupyter>=1.1.1",
     "langchain>=1.5.0",
     "langgraph>=1.2.22",
     "pyjwt>=2.15.1",
+    "python-dotenv>=1.2.4",
 ]
 
 [dependency-groups]
