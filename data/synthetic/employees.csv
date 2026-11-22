@@ -1,4 +1,4 @@
-employee_id,tenant_id,role
-E-101,northstar,adjuster
-E-102,northstar,adjuster
-E-201,harbor,adjuster
+employee_id,tenant_id,role,active
+E-101,northstar,adjuster,true
+E-102,northstar,adjuster,true
+E-201,harbor,adjuster,true
