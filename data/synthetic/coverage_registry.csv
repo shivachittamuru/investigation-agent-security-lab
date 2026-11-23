@@ -1,0 +1,5 @@
+tenant_id,claim_id,source_id,coverage,evidence_complete,active
+northstar,C-1042,POL-NS-1042,COVERED,true,true
+northstar,C-1043,POL-NS-1043,NOT_COVERED,true,true
+harbor,C-1042,POL-HB-1042,COVERED,true,true
+northstar,C-1044,POL-NS-1044,COVERED,true,false
